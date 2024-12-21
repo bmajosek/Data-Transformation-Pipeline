@@ -1,0 +1,4 @@
+pandas 
+langchain 
+huggingface-hub 
+langchain_community
